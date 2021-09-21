@@ -1,2 +1,2 @@
 # stats
-python with statistics
+statisics with python
